@@ -1,7 +1,7 @@
 # =============================================================================
 # M365-Legacy-Auth-Audit.ps1
 # Version: 1.0
-# Author: github.com/YOUR_USERNAME
+# Author: github.com/JUrica11
 #
 # DESCRIPTION:
 #   Detects legacy authentication usage in Microsoft 365:
