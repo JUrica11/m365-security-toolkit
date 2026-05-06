@@ -1,7 +1,7 @@
 # =============================================================================
 # M365-MFA-Audit.ps1
 # Version: 1.0
-# Author: github.com/YOUR_USERNAME
+# Author: github.com/JUrica11
 #
 # DESCRIPTION:
 #   Audits MFA status across all users in a Microsoft 365 tenant:
