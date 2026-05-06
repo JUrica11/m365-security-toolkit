@@ -53,7 +53,7 @@ The full pack includes 5 scripts that together give you a complete picture of yo
 - **Compliance prep** — evidence for Cyber Essentials, ISO 27001, SOC 2 discussions
 - **Upselling** — every finding is a billable remediation project
 
-👉 **[Buy the Security Hardening Pack — $49](https://gumroad.com/YOUR_LINK)**
+👉 **[Buy the Security Hardening Pack — $49]((https://jurajurek.gumroad.com/l/m365-security-pack))**
 
 ---
 
