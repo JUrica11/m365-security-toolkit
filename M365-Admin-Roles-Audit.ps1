@@ -1,7 +1,7 @@
 # =============================================================================
 # M365-Admin-Roles-Audit.ps1
 # Version: 1.0
-# Author: github.com/YOUR_USERNAME
+# Author: github.com/JUrica11
 #
 # DESCRIPTION:
 #   Audits all privileged/admin role assignments in Microsoft 365 / Entra ID:
