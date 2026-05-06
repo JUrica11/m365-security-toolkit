@@ -1,7 +1,7 @@
 # =============================================================================
 # M365-Security-Score-Report.ps1
 # Version: 1.0
-# Author: github.com/YOUR_USERNAME
+# Author: github.com/JUrica11
 #
 # DESCRIPTION:
 #   Generates a comprehensive M365 security posture report combining:
