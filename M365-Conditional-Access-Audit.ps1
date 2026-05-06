@@ -1,7 +1,7 @@
 # =============================================================================
 # M365-Conditional-Access-Audit.ps1
 # Version: 1.0
-# Author: github.com/YOUR_USERNAME
+# Author: github.com/JUrica11
 #
 # DESCRIPTION:
 #   Audits Conditional Access policies in Microsoft 365 / Entra ID:
