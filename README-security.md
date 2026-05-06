@@ -79,3 +79,6 @@ Open an issue on GitHub. PRs welcome.
 ---
 
 *Not affiliated with Microsoft Corporation. These are independent tools.*
+
+## Note
+These scripts were built with AI assistance (Claude) and reviewed/tested by an IT support engineer with hands-on M365 experience.
