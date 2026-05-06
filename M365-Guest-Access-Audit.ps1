@@ -1,7 +1,7 @@
 # =============================================================================
 # M365-Guest-Access-Audit.ps1
 # Version: 1.0
-# Author: github.com/YOUR_USERNAME
+# Author: github.com/JUrica11
 #
 # DESCRIPTION:
 #   Audits all guest (external) accounts in Microsoft 365:
